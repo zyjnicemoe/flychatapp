@@ -3,11 +3,11 @@
 	"message": "Success",
 	"data": {
 		"update_type": 1,
-		"version_code": 76,
-		"version_name": "7.2.5",
-		"apk_url": "https://github.com/flychatin/flychatapp/releases/download/7.2.5/flychat_v7.2.5.apk",
-		"log_cn": "1、修复部分机型闪退和网络连接问题；\n2、优化网络连接速度，提升使用体验。",
-		"log_tw": "1、修復部分機型閃退和網絡連接問題；\n2、優化網絡連接速度，提升使用體驗。",
-		"log_en": "1. Fix crashes and network connection problems of some models. \n2. Optimize the speed of network connection to improve the user"
+		"version_code": 78,
+		"version_name": "7.5.1",
+		"apk_url": "https://github.com/flychatin/flychatapp/releases/download/7.5.1/flychat_v7.5.1.apk",
+		"log_cn": "更新到最新版本，支持各种新特性，修复部分机型闪退和网络连接问题。",
+		"log_tw": "更新到最新版本，支持各種新特性，修復部分機型閃退和網絡連接問題。",
+		"log_en": "Support various new functions, optimize network connection speed."
 	}
 }
